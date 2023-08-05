@@ -101,3 +101,5 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+/bin/Release-windows-x86_64/GLFW
+/bin-int/Release-windows-x86_64/GLFW
