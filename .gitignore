@@ -103,3 +103,5 @@ tests/windows
 
 /bin/Release-windows-x86_64/GLFW
 /bin-int/Release-windows-x86_64/GLFW
+/bin/Debug-windows-x86_64/GLFW
+/bin-int/Debug-windows-x86_64/GLFW
